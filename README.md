@@ -1,6 +1,7 @@
 # Wilding London Coming Soon
 
 [![pages-build-deployment](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment)
+[![CI](https://github.com/SOliv1/rewildingwestminster/actions/workflows/blank.yml/badge.svg)](https://github.com/SOliv1/rewildingwestminster/actions/workflows/blank.yml)
 
 -# excursion
 
