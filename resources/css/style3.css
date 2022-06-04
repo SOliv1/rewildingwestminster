@@ -257,7 +257,7 @@ span#download-left {
 /* Event times */
 
 #times{
-    background-image: url('../images/AdobeStock_87278999.jpeg');
+    background-image: url('resources/images/AdobeStock_87278999.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
