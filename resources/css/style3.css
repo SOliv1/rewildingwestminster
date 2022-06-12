@@ -23,10 +23,16 @@ h1, h2{
 
 /* Cover Link*/
 
-.active {
+/*.active {
     border-bottom: 1px solid #3a3a3a;
     color: #fff;
     text-decoration-skip-ink: none;
+} */
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0062cc78;
+    border-color: #005cbf;
 }
 
 
