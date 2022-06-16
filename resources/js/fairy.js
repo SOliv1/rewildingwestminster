@@ -1,12 +1,14 @@
 const IMAGE_URLS = [
-  'https://i.imgur.com/ATIK70z.png',
-  'https://i.imgur.com/j1Ji19r.png',
-  'https://i.imgur.com/7OONoPN.png',
-  'https://i.imgur.com/CVUTdtG.png',
-  'https://i.imgur.com/YOxgfxw.png',
-  'https://i.imgur.com/55Vsqji.png',
-  'https://i.imgur.com/rP46Ovp.png',
-  'https://i.imgur.com/KYoL6oi.png',
+  // 'https://i.imgur.com/ATIK70z.png',
+  // 'https://i.imgur.com/j1Ji19r.png',
+  // 'https://i.imgur.com/7OONoPN.png',
+  // 'https://i.imgur.com/CVUTdtG.png',
+  // 'https://i.imgur.com/YOxgfxw.png',
+  // 'https://i.imgur.com/55Vsqji.png',
+  // 'https://i.imgur.com/rP46Ovp.png',
+  // 'https://i.imgur.com/KYoL6oi.png',
+  'resources/images/butterfly.png',
+  'resources/images/bee.png',
 ]
 
 
@@ -192,8 +194,8 @@ function snowflakeCursor({
 snowflakeCursor({
   container: document.body,
   //images: [$PROVIDE_YOUR_IMAGE_URLS]
-  rate: 0.5,
-  size: 40,
+  rate: 0.3,
+  size: 17,
   life: 1.5,
-  speed: 1.2
+  speed: 0.2
 });
