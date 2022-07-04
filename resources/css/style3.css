@@ -72,6 +72,12 @@ h1, h2{
     border-bottom: 1px solid #3a3a3a;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
 /* Hero image and cover text */
 
 #hero-outer{
