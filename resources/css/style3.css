@@ -127,7 +127,7 @@ h1, h2{
 
 }
 
-/* button success */
+/* Buttons success  active */
 
 .btn-success {
     color: #000;
@@ -135,6 +135,15 @@ h1, h2{
     border-color: #28a745;
 }
 
+.btn-group>.btn:not(:last-child):not(.dropdown-toggle) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: hsla(240, 76%, 43%, 0.3);
+    border-color: rgba(24, 24, 108, 0.624);
+}
 /*
 .btn-success {
     color: #fff;
