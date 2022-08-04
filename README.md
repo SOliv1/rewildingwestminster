@@ -3,6 +3,7 @@
 
 [![pages-build-deployment](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment)
 [![CI](https://github.com/SOliv1/rewildingwestminster/actions/workflows/blank.yml/badge.svg)](https://github.com/SOliv1/rewildingwestminster/actions/workflows/blank.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78638f54-955f-4837-8788-86f47488e81b/deploy-status?branch=master)](https://app.netlify.com/sites/curious-rugelach-dcf221/deploys)
 
 [rewildingwestminster](http://rewildingwestminster.com/)
 
