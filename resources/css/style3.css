@@ -60,6 +60,14 @@ h1, h2{
     line-height: 75px;
 }
 
+h4#https\:\/\/www\.wildinglondon\.com, 
+#west-logo {
+    float: right;
+    color: black;
+    font-weight: bold;
+    font-family: "Oswald", "Lato", sans-serif;
+}
+
 #menu li {
     float: right;
     list-style-type: none;
