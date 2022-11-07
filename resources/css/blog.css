@@ -71,9 +71,11 @@ h1.display-4.fst-italic {
   border-radius: 0 3px 3px 0;
 }
 
-.flex-auto {
+.flex-auto  {
   flex: 0 0 auto;
 }
+
+
 
 .h-250 { height: 250px; }
 @media (min-width: 768px) {
